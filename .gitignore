@@ -37,3 +37,7 @@ tests/*rc*.gz
 
 # Preferences
 .vscode/
+
+# Nix
+.direnv
+result
